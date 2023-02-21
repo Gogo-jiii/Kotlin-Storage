@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="create_file">create file</string>
+    <string name="write_to_file">Write to file</string>
+    <string name="read_from_file">Read from file</string>
+    <string name="create_cache_file">create cache file</string>
+    <string name="go_to_external_storage_activity">go to external storage activity</string>
+    <string name="go_to_internal_storage_activity">go to internal storage activity</string>
+</resources>
